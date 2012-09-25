@@ -1,6 +1,8 @@
 Add
 AnsiChar
 Application
+AsDate
+AsDateTime
 AsFloat
 AsInteger
 Assigned
@@ -16,9 +18,10 @@ Classes
 Clear
 Close
 Commit
+Continue
 Contnrs
-ParamStr
 Control
+Copy
 Count
 crDefault
 Create
@@ -40,8 +43,10 @@ Exit
 ExtCtrls
 False
 FieldByName
+FloatToStr
 Format
 FormatDateTime
+Found
 Free
 FreeAndNil
 Handled
@@ -54,6 +59,7 @@ ItemIndex
 Items
 Length
 Low
+MaxInt
 mbNo
 mbYes
 Message
@@ -68,8 +74,11 @@ Now
 Null
 OleVariant
 PAnsiChar
+ParamCount
 Params
+ParamStr
 PChar
+Pointer
 Post
 Prior
 ProcessMessages
@@ -83,7 +92,9 @@ Self
 SetLength
 ShowMessage
 ShowModal
+SizeOf
 StdCtrls
+StrToFloat
 StrToInt
 SysUtils
 TButton
@@ -104,8 +115,12 @@ TListView
 TObject
 TObjectList
 TPanel
+Trim
 True
+Trunc
 TStatusBar
+TStringList
+TStrings
 UnicodeString
 UpperCase
 Validate
